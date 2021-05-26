@@ -1,0 +1,25 @@
+{
+  "name": "ts-blueprint",
+  "version": "1.0.0",
+  "description": "Blueprint for a Typescript project",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaeloneves/ts-blueprint.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Raphael Neves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaeloneves/ts-blueprint/issues"
+  },
+  "homepage": "https://github.com/raphaeloneves/ts-blueprint#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
